@@ -1,0 +1,6 @@
+/**
+  Aprende sobre lenguajes de alto y bajo nivel
+**/
+
+
+Un lenguaje de bajo nivel es trasladado fácilmente a lenguaje de máquina (la palabra bajo se refiere a la abstracción reducida entre el lenguaje y el hardware). Y los lenguajes de programación de alto nivel se caracterizan por expresar los programas de una manera sencilla.

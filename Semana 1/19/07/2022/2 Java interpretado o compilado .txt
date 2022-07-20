@@ -1,0 +1,10 @@
+1.	Basado en esta lectura y este video , crea una explicación Interpreted And Compiled Programming Languagesen tu README
+
+
+
+
+2.	¿Java está compilado o interpretado, o ambos?, verifique las fuentes y responda la pregunta en su LÉAME
+
+Java es un lenguaje que compila el código en Bytes que la JRE (Java Runtime Environmet) que es la que da entender el Bytecode (Es como un lenguaje Binario o Ensamblador) que es interpretado por JVM (Maquina Virtual Java ) este lo convierte en un lenguaje Interpretado.
+
+
